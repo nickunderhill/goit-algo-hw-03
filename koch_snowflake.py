@@ -28,7 +28,6 @@ def main():
     # центрування
     t.penup()
     t.backward(line_size/1.732)
-    t.left(30)
     t.pendown()
 
     # Створення сніжинки
